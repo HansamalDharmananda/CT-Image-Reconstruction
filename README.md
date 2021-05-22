@@ -3,7 +3,7 @@
   <div>
   <p>Original image & Reconstructed image using iteration method</p>
   <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/orginal.png" width="200" >
-  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn.png" width="220" >
+  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn.png" width="250" >
   </div>
 
   <div>
@@ -14,5 +14,5 @@
   <div>
   <p>Original image & Reconstructed image using linear algebra method</p>
   <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/orginal.png" width="200" >
-  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn_linear.png" width="218" >
+  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn_linear.png" width="215" >
   </div>
