@@ -3,7 +3,7 @@
   <div>
   <p>Original image & Reconstructed image using iteration method</p>
   <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/orginal.png" width="200" >
-  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn.png" width="250" >
+  <img SRC="https://github.com/HansamalDharmananda/CT-Image-Reconstruction/blob/main/recn.png" width="245" >
   </div>
 
   <div>
